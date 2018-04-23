@@ -8,4 +8,5 @@
 #
 file '/etc/motd' do
 	 content 'Welcome to Chef'
+	 content 'In motd file'
 end
